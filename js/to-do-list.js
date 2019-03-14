@@ -32,7 +32,7 @@ window.ToDoList = {
 
             ToDoList.addItem();
 
-            return.false;
+            return false;
 
         });
 
